@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/cc",
+      "-I/home/rin/dev/balls/deps/SDL/include",
+      "-c",
+      "-o",
+      "CMakeFiles/Balls.dir/src/main.c.o",
+      "/home/rin/dev/balls/src/main.c"
+    ],
+    "directory": "/home/rin/dev/balls/build",
+    "file": "/home/rin/dev/balls/src/main.c",
+    "output": "/home/rin/dev/balls/build/CMakeFiles/Balls.dir/src/main.c.o"
+  }
+]
